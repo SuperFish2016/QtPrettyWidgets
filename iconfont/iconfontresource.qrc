@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/iconfont">
+        <file>font-awesome.css</file>
+        <file>font-awesome.ttf</file>
+    </qresource>
+</RCC>
